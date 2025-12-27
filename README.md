@@ -32,3 +32,32 @@ A aplicação utiliza um banco de dados MySQL para armazenar os produtos.
 Cada produto contém informações como nome, preço e descrição.
 
 Para visualizar clone o repositorio, adicione o mesmo em um servidor local e rode localmente
+
+🔍 Pesquisa de Produtos
+
+A pesquisa é feita através do nome do produto, utilizando requisições AJAX que consultam o banco de dados em tempo real e retornam os resultados sem recarregar a página.
+
+🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido com o objetivo de:
+
+Praticar AJAX com PHP
+Trabalhar com CRUD
+Aprender integração com MySQL
+Criar aplicações web dinâmicas e responsivas
+
+🧠 Aprendizados
+
+Comunicação assíncrona com AJAX
+Manipulação de banco de dados MySQL com PHP
+Organização de backend em múltiplos arquivos
+Uso de consultas SQL para pesquisa dinâmica
+
+📷 Preview
+
+
+📄 Licença
+
+Projeto livre para fins educacionais.
+
+👨‍💻 Desenvolvido por Matheus Victor
